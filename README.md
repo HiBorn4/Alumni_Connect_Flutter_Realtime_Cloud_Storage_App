@@ -5,7 +5,3 @@ Task:
 4. The retrieved data should be displayed as a list view. DONE
 5. And as soon as you enter next input it should be dynamically updated in the below display section. DONE
 6. Feel free to ask any doubts. And task should be completed by Monday afternoon.
-# AlumniConnect
-# AlumniConnect
-# AlumniConnect
-# A
